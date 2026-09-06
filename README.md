@@ -16,7 +16,7 @@ A Django learning repository containing project configuration and an early to-do
 
 ## Getting started
 
-Requires Python, pip and a virtual environment. Dependency pins in older projects may need a compatible Python environment; this README does not upgrade them.
+Requires Git, Python, pip and a virtual environment. Dependency pins in older projects may need a compatible Python environment; this README does not upgrade them.
 
 ```bash
 git clone https://github.com/SamOBrienOlinger/Django-Again.git
